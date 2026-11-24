@@ -1,0 +1,1 @@
+My agent ran no tools, changed no files, and still opened its summary with 'Done! Here's everything I fixed:'
